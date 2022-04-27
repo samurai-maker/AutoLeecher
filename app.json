@@ -12,9 +12,8 @@
     "youtube-dl",
     "leecher"
   ],
-  "repository": "https://github.com/Omkar47/AutoLeecher",
-  "success_url": "https://telegram.dog/APDBugged",
-  "website": "https://github.com/Omkar47/AutoLeecher",
+  "repository": "https://github.com/samurai-maker/brodaddy",
+
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
