@@ -6,4 +6,4 @@ class Config(Config):
     APP_ID = 
     API_HASH = ""
     OWNER_ID = ""
-    AUTH = [556315181, -100088888, -10002252254]
+    AUTH = [ 1748744074, -1001543806802]
